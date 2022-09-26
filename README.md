@@ -1,0 +1,2 @@
+# Batiments-et-travaux-public
+Un client souhaite investir dans un mini bâtiment écologique et de l’installer dans l’un de ses terrains.  Il fait appel à l’entreprise Contain'House qui est spécialisée dans l’aménagement sur mesure de containers maritimes à usages d’habitation ou de local commercial.  Nous disposons de cinq semaines afin de mener une étude complète sur la faisabilité du projet et présenter les propositions aux clients.
